@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "polyline2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 6118, "OBJECTID": 6120, "TenDuong": "Đường số 1", "DiemDau": null, "DiemCuoi": null, "ChieuDai": 368.0, "ViaHeTrai": null, "DoRong": 5, "DayPCDai": 0, "DayPCRong": null, "DienTich": 1840.0, "KetCauMD": "Láng nhựa", "LoaiDuong": "Đô Thị", "NamXayDung": 0, "NamDuyTu": 0, "TaiTrong": null, "GhiChu": null, "MotChieu": 0, "CapQuanLy": "Quận Huyện", "DVQuanLy": "Quận 3", "TinhTrang": "Khá", "SoLan": 2, "CapDuong": 3, "Process": "Quận 3", "XepLoaiCap": "3, D3", "Shape_Leng": 0.0034260901749730002 }, "geometry": { "type": "LineString", "coordinates": [ [ 106.683672560000048, 10.774345847000063 ], [ 106.683233566000069, 10.774197899000058 ], [ 106.683212580000088, 10.774190913000041 ], [ 106.682810605000043, 10.774064911000039 ], [ 106.681731587000058, 10.773702895000042 ], [ 106.680665554000086, 10.773344902000076 ], [ 106.680423584000039, 10.773258923000071 ] ] } },
+{ "type": "Feature", "properties": { "id": 323232, "OBJECTID": null, "TenDuong": null, "DiemDau": null, "DiemCuoi": null, "ChieuDai": null, "ViaHeTrai": null, "DoRong": null, "DayPCDai": null, "DayPCRong": null, "DienTich": null, "KetCauMD": null, "LoaiDuong": null, "NamXayDung": null, "NamDuyTu": null, "TaiTrong": null, "GhiChu": null, "MotChieu": null, "CapQuanLy": null, "DVQuanLy": null, "TinhTrang": null, "SoLan": null, "CapDuong": null, "Process": null, "XepLoaiCap": null, "Shape_Leng": null }, "geometry": { "type": "LineString", "coordinates": [ [ 106.654553769599218, 10.773030645776792 ], [ 106.657181652437203, 10.78179025523675 ], [ 106.662984893704433, 10.780038333344759 ] ] } }
+]
+}
