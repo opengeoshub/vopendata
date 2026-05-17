@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Antimeridian"},"geometry":{"type":"LineString","coordinates":[[180,-90],[180,90]]}}]}
