@@ -3,6 +3,6 @@
 "name": "polyline2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 323232, "OBJECTID": null, "TenDuong": null, "DiemDau": null, "DiemCuoi": null, "ChieuDai": null, "ViaHeTrai": null, "DoRong": null, "DayPCDai": null, "DayPCRong": null, "DienTich": null, "KetCauMD": null, "LoaiDuong": null, "NamXayDung": null, "NamDuyTu": null, "TaiTrong": null, "GhiChu": null, "MotChieu": null, "CapQuanLy": null, "DVQuanLy": null, "TinhTrang": null, "SoLan": null, "CapDuong": null, "Process": null, "XepLoaiCap": null, "Shape_Leng": null }, "geometry": { "type": "LineString", "coordinates": [ [ 106.654553769599218, 10.773030645776792 ], [ 106.657181652437203, 10.78179025523675 ], [ 106.662984893704433, 10.780038333344759 ] ] } }
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 106.704810838292261, 10.776302999786274 ], [ 106.706428944722461, 10.771824719313964 ], [ 106.708297743698182, 10.776246024207747 ] ] } }
 ]
 }
