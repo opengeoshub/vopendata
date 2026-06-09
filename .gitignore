@@ -2,3 +2,4 @@ shape/vn_pois.parquet
 csv/hcmc_pois.qmd
 *.qmd
 raster/SRTM.tif.aux.xml
+shape/vn_wards.gpkg
